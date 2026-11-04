@@ -2,9 +2,8 @@
 
 A collection of C++ and Python solutions to LeetCode problems, organized by topic and daily practice period.
 
-![License: not specified](https://img.shields.io/badge/license-not%20specified-lightgrey)
 ![Languages: C++ and Python](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python-blue)
-![Build: not configured](https://img.shields.io/badge/build-not%20configured-lightgrey)
+
 
 ## Overview
 
@@ -84,9 +83,6 @@ For example, [`Stack/01NGE1_496.cpp`](Stack/01NGE1_496.cpp) contains a C++ solut
 
 Contributions are welcome. Open an issue to discuss a correction or improvement, or submit a pull request with a clear problem reference and a focused change. Keep solutions consistent with the existing folder organization.
 
-## License
-
-No license file is currently included. Until a license is added, the repository's reuse terms are not specified.
 
 ## Author / Contact
 
